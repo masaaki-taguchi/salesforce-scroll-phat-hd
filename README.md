@@ -125,7 +125,7 @@ pip install aiosfstream
 
 ### プログラムの配置
 以下のファイルを任意のディレクトリに配置します。日本語表示にmisaki.pyとMISAKI.FNTを利用していますので、[こちら](https://github.com/moguno/scroll_phat_hd-japanese-ticker/tree/master/bin
-)以下よりダウンロードします。
+)よりダウンロードします。
 
 * salesforce-scroll-phat-hd.py
 * settings.py
